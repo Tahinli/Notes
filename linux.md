@@ -3,3 +3,6 @@ Flatpak Steam MangoHUD Using Universal Config
 
 Flatpak Steam Extra Drive Introducing
  >flatpak override --user --filesystem=/path/to/your/other/games com.valvesoftware.Steam
+
+Normcap
+Upscayl
