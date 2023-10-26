@@ -6,3 +6,5 @@ Flatpak Steam Extra Drive Introducing
 
 Normcap
 Upscayl
+
+Disable Root account by removing pass and lock
